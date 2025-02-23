@@ -1,4 +1,3 @@
-
 import productData from "./data/full-products";
 import { Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
@@ -17,3 +16,6 @@ function App() {
     </div>
   );
 }
+
+export default App;
+
